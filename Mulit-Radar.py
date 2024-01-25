@@ -49,3 +49,8 @@ if __name__ == '__main__':
  
     # 绘制雷达图
     radar_map(data, label, cls)
+
+
+
+#雷达图填充
+#plt.fill(angels,data,facecolor='g',alpha=0.25)
